@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "620705589662",
+    "firebase_url": "https://led-control-a82bb.firebaseio.com",
+    "project_id": "led-control-a82bb",
+    "storage_bucket": "led-control-a82bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620705589662:android:41eb72da8342b694d84e8f",
+        "android_client_info": {
+          "package_name": "com.ledcontroll"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620705589662-foj0f1m5ucubqmp2p6ob8qqv148jc2sr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiEFt-7nRBGKi5hUC3sbNsGNRWIxYTEWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620705589662-foj0f1m5ucubqmp2p6ob8qqv148jc2sr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
